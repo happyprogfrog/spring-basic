@@ -2,6 +2,7 @@ package happyprogfrog.springbasic.discount;
 
 import happyprogfrog.springbasic.member.Grade;
 import happyprogfrog.springbasic.member.Member;
+import org.springframework.stereotype.Component;
 
 public class FixDiscountPolicy implements DiscountPolicy {
 
